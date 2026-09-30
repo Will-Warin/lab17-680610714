@@ -150,3 +150,6 @@
     @apply bg-background text-foreground;}
   html {
     @apply font-sans;}}
+  html {
+    @apply font-sans;
+    font-size: 17.5px;}

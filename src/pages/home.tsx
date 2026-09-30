@@ -24,6 +24,9 @@ export default function HomePage() {
           </div>
         </CardContent>
       </Card>
+      <p className="flex justify-center text-sm text-muted-foreground">
+            จัดทำโดย Warintorn Sriti (680610714)
+          </p>
     </div>
   );
 }

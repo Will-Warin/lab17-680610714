@@ -1,4 +1,8 @@
-# lab17-2569-starter — Zod + React Hook Form
+# lab17-2569 — Zod + React Hook Form
+
+รหัสนักศึกษา: 680610714
+
+ชื่อ: วรินทร ศรีธิ
 
 ```bash
 pnpm install
